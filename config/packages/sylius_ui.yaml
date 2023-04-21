@@ -1,0 +1,5 @@
+sylius_ui:
+    events:
+        sylius.shop.layout.header:
+            blocks:
+                impersonator_hint: 'impersonator_hint.html.twig'
